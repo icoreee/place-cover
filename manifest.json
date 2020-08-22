@@ -1,0 +1,14 @@
+{
+  "name": "Place Cover",
+  "id": "878681553123389665",
+  "api": "1.0.0",
+  "main": "code.js",
+  "menu": [
+    { "name": "1. Discover", "command": "1" },
+    { "name": "2. Create", "command": "2" },
+    { "name": "3. Develop", "command": "3" },
+    { "name": "4. Done", "command": "4" },
+    { "separator": true },
+    { "name": "5. Cancelled", "command": "5" }
+  ]
+}
